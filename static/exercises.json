@@ -1,4 +1,4 @@
-window.EXERCISES = [
+[
   {
     "id": 101,
     "name": "Push Ups",
@@ -1156,4 +1156,4 @@ window.EXERCISES = [
     "image": "exercises/toe_taps.png",
     "description": "Lie on your back with your legs bent and arms down at your side. Alternate reaching down to your left then right sides."
   }
-];
+]

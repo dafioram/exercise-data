@@ -1,9 +1,16 @@
 {
-	"id": 103,
-	"name": "Plank",
-	"muscle": "abs",
-	"body_part": "upper",
-	"body_weight": true,
-	"ab_workout": true,
-	"variants": "none"
+    "id": 103,
+    "name": "Plank",
+    "alternate_name": "",
+    "description": "Hold a straight line from head to heels on your forearms and toes. Brace your core and squeeze your glutes; don't let your hips sag or pike.",
+    "muscle": "core",
+    "body_part": "upper",
+    "type": "strength",
+    "equipment": "none",
+    "variants": "",
+    "body_weight": true,
+    "active": true,
+    "ab_workout": true,
+    "image": "",
+    "link": ""
 }

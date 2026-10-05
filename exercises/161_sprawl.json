@@ -1,17 +1,17 @@
 {
     "id": 161,
     "name": "Sprawl",
+    "alternate_name": "half-burpee",
+    "description": "Start standing and then squat down putting your hands in front, lean forward and kick your legs back to a plank. Then reverse.",
     "muscle": "legs",
     "body_part": "lower",
-    "body_weight": true,
-    "variants": "",
     "type": "cardio",
-    "equipment": "",
-    "link": "",
-    "active": true,
-    "alternate_name": "half-burpee",
-	"ab_workout": true,
+    "equipment": "none",
+    "variants": "",
     "intensity": 5,
-    "image": "exercises/sprawl.png",
-    "description": "Start standing and then squat down putting your hands in front, lean forward and kick your legs back to a plank. Then reverse."
+    "body_weight": true,
+    "active": true,
+    "ab_workout": true,
+    "image": "",
+    "link": ""
 }

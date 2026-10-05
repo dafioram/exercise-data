@@ -1,17 +1,16 @@
 {
-    "id": 147,
-    "name": "Wall Sits",
+    "id": 114,
+    "name": "Cossack Squat",
     "alternate_name": "",
-    "description": "Squat down with your back against a wall and hold.",
+    "description": "in a wide stand lean to one side and put up the opposite foot. Then do the other side.",
     "muscle": "quads",
     "body_part": "lower",
     "type": "strength",
     "equipment": "none",
     "variants": "",
-    "intensity": 4,
     "body_weight": true,
     "active": true,
     "ab_workout": false,
     "image": "",
-    "link": ""
+    "link": "https://www.youtube.com/watch?v=nLNqEQ4B6XI"
 }

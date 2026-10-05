@@ -1,16 +1,17 @@
 {
     "id": 154,
     "name": "Alligator Crawl",
-    "muscle": "legs",
-    "body_part": "lower body",
-    "body_weight": true,
-    "variants": "",
-    "type": "strength",
-    "equipment": "",
-    "link": "",
-    "active": true,
     "alternate_name": "",
+    "description": "Start prone and stay low move your arms and legs with your knees as close to the floor as possible.",
+    "muscle": "legs",
+    "body_part": "lower",
+    "type": "strength",
+    "equipment": "none",
+    "variants": "",
     "intensity": 5,
-    "image": "exercises/alligator_crawl.png",
-    "description": "Start prone and stay low move your arms and legs with your knees as close to the floor as possible."
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "image": "",
+    "link": ""
 }

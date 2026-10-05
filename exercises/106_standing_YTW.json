@@ -1,9 +1,16 @@
 {
-	"id": 106,
-	"name": "Standing YTW",
-	"muscle": "back",
-	"body_part": "upper",
-	"body_weight": true,
-	"variants": "lying",
-	"description": "With your arms for a Y, then T, then W"
+    "id": 106,
+    "name": "Standing YTW",
+    "alternate_name": "",
+    "description": "With your arms for a Y, then T, then W",
+    "muscle": "back",
+    "body_part": "upper",
+    "type": "strength",
+    "equipment": "none",
+    "variants": "lying",
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "image": "",
+    "link": ""
 }

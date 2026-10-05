@@ -1,16 +1,17 @@
 {
     "id": 153,
     "name": "Step Ups",
+    "alternate_name": "",
+    "description": "Step up onto a platform and drive the opposite knee.",
     "muscle": "hip flexors",
-    "body_part": "lower body",
-    "body_weight": true,
-    "variants": "",
+    "body_part": "lower",
     "type": "strength",
     "equipment": "step",
-    "link": "",
-    "active": true,
-    "alternate_name": "",
+    "variants": "",
     "intensity": 5,
-    "image": "exercises/step_ups.png",
-    "description": "Step up onto a platform and drive the opposite knee."
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "image": "",
+    "link": ""
 }

@@ -1,11 +1,16 @@
 {
-	"id": 113,
-	"name": "Punch and Kicks",
-	"muscle": "full",
-	"body_part": "full",
-	"body_weight": true,
-	"variants": "none",
-	"type": "cardio",
-	"equipment": "none",
-	"description": "punch four times then kick two times"
+    "id": 113,
+    "name": "Punch and Kicks",
+    "alternate_name": "",
+    "description": "punch four times then kick two times",
+    "muscle": "full",
+    "body_part": "full",
+    "type": "cardio",
+    "equipment": "none",
+    "variants": "",
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "image": "",
+    "link": ""
 }

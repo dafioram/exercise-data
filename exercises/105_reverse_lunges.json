@@ -1,9 +1,16 @@
 {
-	"id": 105,
-	"name": "Reverse Lunges",
-	"muscle": "quads",
-	"body_part": "lower",
-	"body_weight": true,
-	"variants": "knee drive",
-	"description": ""
+    "id": 105,
+    "name": "Reverse Lunges",
+    "alternate_name": "",
+    "description": "From standing, step one foot back and lower until both knees are bent about 90 degrees. Push through the front heel to return to standing, then switch legs.",
+    "muscle": "quads",
+    "body_part": "lower",
+    "type": "strength",
+    "equipment": "none",
+    "variants": "knee drive",
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "image": "",
+    "link": ""
 }

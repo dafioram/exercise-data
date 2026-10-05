@@ -1,1 +1,3 @@
-__pycache__
+__pycache__/
+# Built by gen_full_exercises.py; the deploy workflow generates it
+static/

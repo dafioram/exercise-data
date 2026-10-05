@@ -1,8 +1,16 @@
 {
-	"id": 102,
-	"name": "Squats",
-	"muscle": "quads",
-	"body_part": "lower",
-	"body_weight": true,
-	"variants": "none"
+    "id": 102,
+    "name": "Squats",
+    "alternate_name": "",
+    "description": "Stand with feet shoulder-width apart. Push your hips back and bend your knees to lower until your thighs are about parallel to the floor, then drive up through your heels.",
+    "muscle": "quads",
+    "body_part": "lower",
+    "type": "strength",
+    "equipment": "none",
+    "variants": "",
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "image": "",
+    "link": ""
 }

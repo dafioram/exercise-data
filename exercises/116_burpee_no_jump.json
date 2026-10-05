@@ -1,15 +1,17 @@
 {
     "id": 116,
     "name": "Burpee No Jump",
+    "alternate_name": "",
+    "description": "start in a standing position, squat down, place your hands on the floor, step back into a plank, step forward into a squat, and stand up. Do not jump at the end.",
     "muscle": "full",
     "body_part": "full",
-    "body_weight": true,
-    "variants": "none",
     "type": "cardio",
     "equipment": "none",
-    "link": "",
-    "active": true,
+    "variants": "",
     "intensity": 7,
-    "image": "exercises/burpee_no_jump.png",
-    "description": "start in a standing position, squat down, place your hands on the floor, step back into a plank, step forward into a squat, and stand up. Do not jump at the end."
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "image": "",
+    "link": ""
 }

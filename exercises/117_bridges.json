@@ -1,15 +1,17 @@
 {
     "id": 117,
     "name": "Bridges",
+    "alternate_name": "",
+    "description": "lie on your back with knees bent and feet flat on the floor, lift your hips toward the ceiling while squeezing your glutes, then lower back down.",
     "muscle": "glutes",
     "body_part": "lower",
-    "body_weight": true,
-    "variants": "one-leg",
     "type": "strength",
     "equipment": "none",
-    "link": "",
-    "active": true,
+    "variants": "one-leg",
     "intensity": 6,
-    "image": "exercises/bridges.png",
-    "description": "lie on your back with knees bent and feet flat on the floor, lift your hips toward the ceiling while squeezing your glutes, then lower back down."
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "image": "",
+    "link": ""
 }

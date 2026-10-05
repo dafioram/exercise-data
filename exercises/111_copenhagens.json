@@ -1,11 +1,16 @@
 {
-	"id": 111,
-	"name": "Copenhagens",
-	"muscle": "adductors",
-	"body_part": "lower",
-	"body_weight": true,
-	"variants": "none",
-	"type": "strength",
-	"equipment": "chair",
-	"description": "turn on your side and use one leg to hold up your lower body"
+    "id": 111,
+    "name": "Copenhagens",
+    "alternate_name": "",
+    "description": "turn on your side and use one leg to hold up your lower body",
+    "muscle": "hip adductors",
+    "body_part": "lower",
+    "type": "strength",
+    "equipment": "chair",
+    "variants": "",
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "image": "",
+    "link": ""
 }

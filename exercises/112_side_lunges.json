@@ -1,11 +1,16 @@
 {
-	"id": 112,
-	"name": "Side Lunges",
-	"muscle": "quads",
-	"body_part": "lower",
-	"body_weight": true,
-	"variants": "none",
-	"type": "strength",
-	"equipment": "none",
-	"description": "start standing and throw one leg to the side and lean over it"
+    "id": 112,
+    "name": "Side Lunges",
+    "alternate_name": "",
+    "description": "start standing and throw one leg to the side and lean over it",
+    "muscle": "quads",
+    "body_part": "lower",
+    "type": "strength",
+    "equipment": "none",
+    "variants": "",
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "image": "",
+    "link": ""
 }

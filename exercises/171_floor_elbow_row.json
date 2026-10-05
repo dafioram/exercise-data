@@ -1,16 +1,17 @@
 {
     "id": 171,
     "name": "Floor Elbow Rows",
-    "muscle": "back",
-    "body_part": "upper body",
-    "body_weight": true,
-    "variants": "Elbows to the side",
-    "type": "strength",
-    "equipment": "",
-    "link": "",
-    "active": true,
     "alternate_name": "",
+    "description": "lie on your back with legs bent, have your elbows out at 90 degrees and push off with them.",
+    "muscle": "back",
+    "body_part": "upper",
+    "type": "strength",
+    "equipment": "none",
+    "variants": "Elbows to the side",
     "intensity": 5,
-    "image": "exercises/floor_elbow_rows.png",
-    "description": "lie on your back with legs bent, have your elbows out at 90 degrees and push off with them."
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "image": "",
+    "link": ""
 }

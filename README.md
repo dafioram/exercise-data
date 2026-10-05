@@ -46,5 +46,5 @@ fails if the file is missing, and the deploy publishes `images/` alongside the J
 ## One-time setup
 
 GitHub Pages must deploy from Actions: **Settings → Pages → Build and deployment
-→ Source: GitHub Actions**. `static/` is still committed so the site keeps
-working under the old "Deploy from a branch" setting until this is switched.
+→ Source: GitHub Actions**. `static/` is not committed; the deploy workflow builds
+it, and running `python gen_full_exercises.py` locally writes it for previewing.

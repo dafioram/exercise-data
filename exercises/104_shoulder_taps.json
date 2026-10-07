@@ -11,6 +11,7 @@
     "body_weight": true,
     "active": true,
     "ab_workout": true,
+    "tv_friendly": true,
     "image": "",
     "link": ""
 }

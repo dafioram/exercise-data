@@ -11,6 +11,7 @@
     "body_weight": true,
     "active": true,
     "ab_workout": false,
+    "tv_friendly": true,
     "image": "",
     "link": "https://www.youtube.com/watch?v=nLNqEQ4B6XI"
 }

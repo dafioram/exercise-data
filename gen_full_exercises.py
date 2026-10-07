@@ -42,6 +42,10 @@ SCHEMA = {
     "body_weight": (bool, True),
     "active": (bool, True),
     "ab_workout": (bool, True),
+    # True when you can keep your head up and facing a screen the whole time
+    # (standing, seated, on your back or side, planks held in place), without
+    # turning away or travelling. Used by the app's "TV Friendly" mode.
+    "tv_friendly": (bool, True),
     "image": (str, False),
     "link": (str, False),
 }

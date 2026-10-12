@@ -1,0 +1,19 @@
+{
+    "id": 179,
+    "name": "90/90 Hip Switch",
+    "alternate_name": "Windshield Wipers",
+    "description": "Start with one leg in front in a 90 degree turn and the other back. Switch them.",
+    "muscle": "glutes",
+    "body_part": "lower",
+    "type": "mobility",
+    "equipment": "none",
+    "variants": "",
+    "intensity": 3,
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "tv_friendly": true,
+    "is_mobility": true,
+    "image": "",
+    "link": ""
+}

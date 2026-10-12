@@ -1,0 +1,19 @@
+{
+    "id": 181,
+    "name": "Rocking Half Pigeon",
+    "alternate_name": "",
+    "description": "Start in a half pigeon. Rock forward and back.",
+    "muscle": "glutes",
+    "body_part": "lower",
+    "type": "mobility",
+    "equipment": "none",
+    "variants": "",
+    "intensity": 3,
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "tv_friendly": false,
+    "is_mobility": true,
+    "image": "",
+    "link": ""
+}

@@ -1,0 +1,19 @@
+{
+    "id": 180,
+    "name": "Rocking Frog Stretch",
+    "alternate_name": "",
+    "description": "Start in a frog stretch with your legs opened on your knees and feet. Lean forward, then rock back.",
+    "muscle": "hip adductors",
+    "body_part": "lower",
+    "type": "mobility",
+    "equipment": "none",
+    "variants": "",
+    "intensity": 3,
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "tv_friendly": false,
+    "is_mobility": true,
+    "image": "",
+    "link": ""
+}

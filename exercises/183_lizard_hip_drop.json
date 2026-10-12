@@ -1,0 +1,19 @@
+{
+    "id": 183,
+    "name": "Lizard Hip Drop",
+    "alternate_name": "",
+    "description": "Start in a lizard lunge. Twist and drop your back leg so it's sideways on the ground.",
+    "muscle": "glutes",
+    "body_part": "lower",
+    "type": "mobility",
+    "equipment": "none",
+    "variants": "",
+    "intensity": 3,
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "tv_friendly": true,
+    "is_mobility": true,
+    "image": "",
+    "link": ""
+}

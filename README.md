@@ -29,6 +29,7 @@ To hide an exercise without deleting it, set `"active": false`.
 | `active` | yes | `false` hides it in the app |
 | `ab_workout` | yes | `true` includes it in the app's "Core Only" mode |
 | `tv_friendly` | yes | `true` if you can keep your head up and facing a screen the whole time (standing, seated, on your back or side, planks held in place) without turning away or travelling. Includes it in the app's "TV Friendly" mode. Face-down, all-fours/crawling and twisting exercises are `false` |
+| `is_mobility` | yes | `true` includes it in the app's "Mobility Exercises" mode. Currently: Squat Pulses, Cossack Squat, Sumo Squat, Frog Squats, Dead Bug, Bird Dog, Side Plank with Hip Drop, Worlds Greatest Stretch, Side Gorillas, Crab Reaches, Dead Hangs |
 | `alternate_name` | no | Shown in brackets after the name |
 | `variants` | no | Free text |
 | `intensity` | no | Integer 1–10 |

@@ -13,6 +13,7 @@
     "active": true,
     "ab_workout": false,
     "tv_friendly": false,
+    "is_mobility": true,
     "image": "",
     "link": ""
 }

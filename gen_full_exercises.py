@@ -46,6 +46,8 @@ SCHEMA = {
     # (standing, seated, on your back or side, planks held in place), without
     # turning away or travelling. Used by the app's "TV Friendly" mode.
     "tv_friendly": (bool, True),
+    # True for the exercises in the app's "Mobility Exercises" mode
+    "is_mobility": (bool, True),
     "image": (str, False),
     "link": (str, False),
 }

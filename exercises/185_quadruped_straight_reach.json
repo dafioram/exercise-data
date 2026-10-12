@@ -1,0 +1,19 @@
+{
+    "id": 185,
+    "name": "Quadruped Straight Reach",
+    "alternate_name": "",
+    "description": "Similar to the elbow reach. Start with your arm threaded under the opposite side of your body. As you rotate to the other side, bring that arm out and point it as high as possible, keeping your torso and head in line.",
+    "muscle": "obliques",
+    "body_part": "core",
+    "type": "mobility",
+    "equipment": "none",
+    "variants": "",
+    "intensity": 3,
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "tv_friendly": false,
+    "is_mobility": true,
+    "image": "",
+    "link": ""
+}

@@ -1,0 +1,19 @@
+{
+    "id": 184,
+    "name": "Quadruped Elbow Reach",
+    "alternate_name": "",
+    "description": "Start on all fours with one hand on your head and that arm's elbow pointed at the ground. Rotate your chest toward the elbow side and point the elbow as high as possible, keeping your head in line with your torso.",
+    "muscle": "obliques",
+    "body_part": "core",
+    "type": "mobility",
+    "equipment": "none",
+    "variants": "",
+    "intensity": 3,
+    "body_weight": true,
+    "active": true,
+    "ab_workout": false,
+    "tv_friendly": false,
+    "is_mobility": true,
+    "image": "",
+    "link": ""
+}
